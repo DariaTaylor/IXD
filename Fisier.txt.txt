@@ -1,2 +1,2 @@
 Acesta este primul fisier versionat.
-Acesta este cel de-al doilea fisier versionat.
+Acesta este al doilea fisier versionat.
